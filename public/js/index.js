@@ -1,6 +1,7 @@
 // Make connection
     var socket = io.connect('http://localhost:4000');
     
+    
 // Query DOM
 const chatForm = document.getElementById('chat-form');
 const chatMessages= document.querySelector('.chat-messages');
