@@ -1,8 +1,7 @@
 const express = require('express');
 const socket = require('socket.io');
 const formatmessage=require('./utils/messages');
-const {userJoin,getCurrentUser,userLeave,getRoomUsers}
-=require('./utils/users');
+const {userJoin,getCurrentUser,userLeave,getRoomUsers}=require('./utils/users');
 
 const Port=4000||process.env.PORT;
 // App setup
