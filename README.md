@@ -1,9 +1,9 @@
-## Readme
+## ✨Readme
 <h1 align="center">
   <br>
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://dynamic.brandcrowd.com/asset/logo/0b27707f-4ea7-4a7e-a51f-807a81f8f2f7/logo?v=4&text=+CHat-Draw" alt="Markdownify" width="400"></a>
 </h1>
-<h4 align="center">⇸Web Application which let work together and play game,draw and explain things easily to other and have chat with it. ⇷</h4>
+<h4 align="center">⇸ Web Application which let work together and play game,draw and explain things easily to other and have chat with it. ⇷</h4>
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#key-features">How-To-Use</a> •
@@ -13,20 +13,20 @@
   <a href="#key-features">Contributors</a>
 </p>
 
-# CHat-DraW ✨
+# :triangular_flag_on_post: CHat-DraW 
 //About Application that what problem does it solve
 
-## Key Features✨
+## :triangular_flag_on_post: Key Features
 
 #### ⇸ A particular Room Id is needed to enter into the chat box.
-#### ⇸ Chat Room have feature to draw and play game like  Ø and ❌ with others.
+#### ⇸ Chat Room have feature to draw and play game like  :o: and :x: with others.
 #### ⇸ Have chat with player will playing game and draw.
 #### ⇸ Their is no limit of users for a particular room ,you can invite them by giving Room Id.
 #### ⇸
 #### ⇸
 #### ⇸
   
-## Code Style ✨
+## :triangular_flag_on_post: Code Style 
   1. Proper folder structure has been maintained
 
        ![](Images/Capture.PNG)
@@ -41,7 +41,7 @@
        ![](Images/Capture4.PNG)
        
        
-## Installation ✨
+## :triangular_flag_on_post: Installation 
   It is very easy to use our project if anyone wants. Just follow the steps :
 
   1. Firstly if you are working locally then you need to install the following :
@@ -78,7 +78,7 @@
 :warning: Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-  bash-shell/) or use `node` from the command prompt.
 
 
-## Tech/framework used ✨
+## :triangular_flag_on_post: Tech/framework used 
   The following tools were used in building this site
   * Front-end development
     * HTML
@@ -92,7 +92,7 @@
     * Socket.io
 
 
-## Contributors ✨
+## :triangular_flag_on_post: Contributors 
   <div>   
   <p>
     💻 <a href="https://github.com/SARVESHKHANDELWAL">Sarvesh Khandelwal(U19ME210)</a><br/>
