@@ -5,15 +5,15 @@
 </h1>
 <h4 align="center">:point_right: Web Application which let work together and play game,draw and explain things easily to other and have chat with it. :point_left:</h4>
 <p align="center">
-  <a href="#key-features">:zap: Key Features</a> 
-  <a href="#key-features">:zap: How-To-Use</a> 
-  <a href="#key-features">:zap: Code Style</a> 
-  <a href="#key-features">:zap: Installation</a> 
-  <a href="#key-features">:zap: Tech/framework used</a> 
-  <a href="#key-features">:zap: Contributors</a>:zap:
+  <a href="#key-features">:pushpin: Key Features</a> 
+  <a href="#key-features">:pushpin: How-To-Use</a> 
+  <a href="#key-features">:pushpin: Code Style</a> 
+  <a href="#key-features">:pushpin: Installation</a> 
+  <a href="#key-features">:pushpin: Tech/framework used</a> 
+  <a href="#key-features">:pushpin: Contributors</a>
 </p>
 
-## :triangular_flag_on_post: CHat-Draw
+# :triangular_flag_on_post: CHat-DraW 
 //About Application that what problem does it solve
 
 ## ✨ Key Features
@@ -46,6 +46,7 @@
 
   1. Firstly if you are working locally then you need to install the following :
       * Node.js
+      * MongoDB
       * VS Code ( recommended , Any other suitable code editor will work )
 
   2. Next you need to clone our project's GitHub repository to your desktop 
@@ -95,11 +96,14 @@
   <div>   
   <p>
     💻 <a href="https://github.com/SARVESHKHANDELWAL">Sarvesh Khandelwal(U19ME210)</a><br/>
-    💻 <a href="https://github.com/nikhilgupta2001">Nikhil Gupta(U19EC)</a><br/>
-    💻 <a href="https://github.com/mrSidSa">Siddhesh Sathe(U19EC)</a><br/>
+    💻 <a href="https://github.com/nikhilgupta2001">Nikhil Gupta</a><br/>
+    💻 <a href="https://github.com/mrSidSa">Siddhesh Sathe</a><br/>
    <p> 
    </div>
 
+
+
+---
 
 
 
