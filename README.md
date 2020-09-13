@@ -5,12 +5,12 @@
 </h1>
 <h4 align="center">:point_right: Web Application which let work together and play game,draw and explain things easily to other and have chat with it. :point_left:</h4>
 <p align="center">
-  <a href="#key-features">:pushpin: Key Features</a> 
-  <a href="#key-features">:pushpin: How-To-Use</a> 
-  <a href="#key-features">:pushpin: Code Style</a> 
-  <a href="#key-features">:pushpin: Installation</a> 
-  <a href="#key-features">:pushpin: Tech/framework used</a> 
-  <a href="#key-features">:pushpin: Contributors</a>
+  :pushpin:<a href="#key-features"> Key Features</a> 
+  :pushpin:<a href="#key-features"> How-To-Use</a> 
+  :pushpin:<a href="#key-features"> Code Style</a> 
+  :pushpin:<a href="#key-features"> Installation</a> 
+  :pushpin:<a href="#key-features"> Tech/framework used</a> 
+  :pushpin:<a href="#key-features"> Contributors</a>
 </p>
 
 ## :triangular_flag_on_post: Chat-Draw
