@@ -79,17 +79,17 @@
 
 
 ## ✨ Tech/framework used 
-  The following tools were used in building this site
+  The following tools were used in building this site<br/>
   ⭐ Front-end development<br/>
-    * HTML<br/>
-    * CSS<br/>
-    * BootStrap <br/>
+      * HTML<br/>
+      * CSS<br/>
+      * BootStrap <br/>
 
   ⭐ Back-end development<br/>
-    * Javascript<br/>
-    * Node.js<br/>
-    * Express.js<br/>
-    * Socket.io<br/>
+      * Javascript<br/>
+      * Node.js<br/>
+      * Express.js<br/>
+      * Socket.io<br/>
 
 
 ## :triangular_flag_on_post: Contributors 
