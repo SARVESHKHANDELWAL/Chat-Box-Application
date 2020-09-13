@@ -13,7 +13,7 @@
   <a href="#key-features">:pushpin: Contributors</a>
 </p>
 
-# :triangular_flag_on_post: CHat-DraW 
+# :triangular_flag_on_post: Chat-DraW 
 //About Application that what problem does it solve
 
 ## ✨ Key Features
@@ -22,9 +22,9 @@
 #### :wave: Chat Room have feature to draw and play game like  :o: and :x: with others.
 #### :wave: Have chat with player will playing game and draw.
 #### :wave: Their is no limit of users for a particular room ,you can invite them by giving Room Id.
-#### :wave:
-#### :wave:
-#### :wave:
+#### :wave: You can share pdf and assignments can solve your doubts together with help of shapes and pencils.
+#### :wave: 
+#### :wave: 
   
 ## ✨Code Style 
   1. Proper folder structure has been maintained
