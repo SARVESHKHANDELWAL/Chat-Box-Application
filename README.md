@@ -16,7 +16,7 @@
 # :triangular_flag_on_post: CHat-DraW 
 //About Application that what problem does it solve
 
-## :triangular_flag_on_post: Key Features
+## ✨ Key Features
 
 #### :wave:A particular Room Id is needed to enter into the chat box.
 #### :wave:Chat Room have feature to draw and play game like  :o: and :x: with others.
@@ -26,7 +26,7 @@
 #### :wave:
 #### :wave:
   
-## :triangular_flag_on_post: Code Style 
+## ✨Code Style 
   1. Proper folder structure has been maintained
 
        ![](Images/Capture.PNG)
@@ -41,7 +41,7 @@
        ![](Images/Capture4.PNG)
        
        
-## :triangular_flag_on_post: Installation 
+## ✨ Installation 
   It is very easy to use our project if anyone wants. Just follow the steps :
 
   1. Firstly if you are working locally then you need to install the following :
@@ -78,7 +78,7 @@
 :warning: Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-  bash-shell/) or use `node` from the command prompt.
 
 
-## :triangular_flag_on_post: Tech/framework used 
+## ✨ Tech/framework used 
   The following tools were used in building this site
   * Front-end development
     * HTML
