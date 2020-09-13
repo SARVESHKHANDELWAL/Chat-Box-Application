@@ -101,7 +101,7 @@
    <p> 
    </div>
 
-## License
+## :lock: License
 
 MIT
 
