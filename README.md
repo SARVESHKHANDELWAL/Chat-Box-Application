@@ -101,11 +101,7 @@
    <p> 
    </div>
 
-## :lock: License
 
-MIT
-
----
 
 
 
