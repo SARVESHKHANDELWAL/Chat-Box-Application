@@ -5,12 +5,12 @@
 </h1>
 <h4 align="center">:point_right: Web Application which let work together and play game,draw and explain things easily to other and have chat with it. :point_left:</h4>
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#key-features">How-To-Use</a> •
-  <a href="#key-features">Code Style</a> •
-  <a href="#key-features">Installation</a> •
-  <a href="#key-features">Tech/framework used</a> •
-  <a href="#key-features">Contributors</a>
+  <a href="#key-features">:zap: Key Features</a> •
+  <a href="#key-features">:zap: How-To-Use</a> •
+  <a href="#key-features">:zap: Code Style</a> •
+  <a href="#key-features">:zap: Installation</a> •
+  <a href="#key-features">:zap: Tech/framework used</a> •
+  <a href="#key-features">:zap: Contributors</a>:zap:
 </p>
 
 # :triangular_flag_on_post: CHat-DraW 
@@ -18,10 +18,10 @@
 
 ## ✨ Key Features
 
-#### :wave:A particular Room Id is needed to enter into the chat box.
-#### :wave:Chat Room have feature to draw and play game like  :o: and :x: with others.
-#### :wave:Have chat with player will playing game and draw.
-#### :wave:Their is no limit of users for a particular room ,you can invite them by giving Room Id.
+#### :wave: A particular Room Id is needed to enter into the chat box.
+#### :wave: Chat Room have feature to draw and play game like  :o: and :x: with others.
+#### :wave: Have chat with player will playing game and draw.
+#### :wave: Their is no limit of users for a particular room ,you can invite them by giving Room Id.
 #### :wave:
 #### :wave:
 #### :wave:
