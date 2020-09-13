@@ -13,7 +13,7 @@
   <a href="#key-features">:pushpin: Contributors</a>
 </p>
 
-# :triangular_flag_on_post: Chat-DraW 
+## :triangular_flag_on_post: Chat-Draw
 //About Application that what problem does it solve
 
 ## ✨ Key Features
@@ -27,35 +27,35 @@
 #### :wave: 
   
 ## ✨Code Style 
-  1. Proper folder structure has been maintained
+  :star: Proper folder structure has been maintained
 
        ![](Images/Capture.PNG)
 
-  2. Proper indenting and sequential inclusion of files
+  :star: Proper indenting and sequential inclusion of files
       ![](Images/Capture2.PNG)
 
-  3. Basic HTML5 syntax with bootstrap included
+  :star: Basic HTML5 syntax with bootstrap included
       ![](Images/Capture3.PNG)
 
-   4. Plain JavaScript used
+   :star: Plain JavaScript used
        ![](Images/Capture4.PNG)
        
        
 ## ✨ Installation 
   It is very easy to use our project if anyone wants. Just follow the steps :
 
-  1. Firstly if you are working locally then you need to install the following :
+  :star: Firstly if you are working locally then you need to install the following :
       * Node.js
       * MongoDB
       * VS Code ( recommended , Any other suitable code editor will work )
 
-  2. Next you need to clone our project's GitHub repository to your desktop 
+  :star: Next you need to clone our project's GitHub repository to your desktop 
 
-  3. Open command line navigate to the project folder. Then type the following commands to install required dependencies :
+  :star: Open command line navigate to the project folder. Then type the following commands to install required dependencies :
        ```javascript
         npm install  body-parser http express  moment  socket.io --save
        ```
-  4. Your package.json should look like this with the following dependencies
+  :star: Your package.json should look like this with the following dependencies
        ```javascript
        "dependencies": {
           "body-parser": "^1.19.0",
@@ -68,7 +68,7 @@
      ```    
 
 
-  5. After successful installation run the following command to start the application :
+  :star: After successful installation run the following command to start the application :
         ```javascript
          node server.js
         ```
@@ -80,12 +80,12 @@
 
 ## ✨ Tech/framework used 
   The following tools were used in building this site
-  * Front-end development
+  :star: Front-end development
     * HTML
     * CSS
     * BootStrap 
 
-  * Back-end development
+  :star: Back-end development
     * Javascript
     * Node.js
     * Express.js
