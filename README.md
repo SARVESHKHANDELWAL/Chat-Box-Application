@@ -27,35 +27,35 @@
 #### :wave: 
   
 ## ✨Code Style 
-  :star: Proper folder structure has been maintained
+  * Proper folder structure has been maintained
 
        ![](Images/Capture.PNG)
 
-  :star: Proper indenting and sequential inclusion of files
+  * Proper indenting and sequential inclusion of files
       ![](Images/Capture2.PNG)
 
-  :star: Basic HTML5 syntax with bootstrap included
+  * Basic HTML5 syntax with bootstrap included
       ![](Images/Capture3.PNG)
 
-   :star: Plain JavaScript used
+  * Plain JavaScript used
        ![](Images/Capture4.PNG)
        
        
 ## ✨ Installation 
   It is very easy to use our project if anyone wants. Just follow the steps :
 
-  :star: Firstly if you are working locally then you need to install the following :
+  1. Firstly if you are working locally then you need to install the following :
       * Node.js
       * MongoDB
       * VS Code ( recommended , Any other suitable code editor will work )
 
-  :star: Next you need to clone our project's GitHub repository to your desktop 
+   2. Next you need to clone our project's GitHub repository to your desktop 
 
-  :star: Open command line navigate to the project folder. Then type the following commands to install required dependencies :
+  3. Open command line navigate to the project folder. Then type the following commands to install required dependencies :
        ```javascript
         npm install  body-parser http express  moment  socket.io --save
        ```
-  :star: Your package.json should look like this with the following dependencies
+  4. Your package.json should look like this with the following dependencies
        ```javascript
        "dependencies": {
           "body-parser": "^1.19.0",
@@ -68,7 +68,7 @@
      ```    
 
 
-  :star: After successful installation run the following command to start the application :
+  5. After successful installation run the following command to start the application :
         ```javascript
          node server.js
         ```
