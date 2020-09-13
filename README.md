@@ -18,13 +18,13 @@
 
 ## :triangular_flag_on_post: Key Features
 
-#### ⇸ A particular Room Id is needed to enter into the chat box.
-#### ⇸ Chat Room have feature to draw and play game like  :o: and :x: with others.
-#### ⇸ Have chat with player will playing game and draw.
-#### ⇸ Their is no limit of users for a particular room ,you can invite them by giving Room Id.
-#### ⇸
-#### ⇸
-#### ⇸
+#### :wave:A particular Room Id is needed to enter into the chat box.
+#### :wave:Chat Room have feature to draw and play game like  :o: and :x: with others.
+#### :wave:Have chat with player will playing game and draw.
+#### :wave:Their is no limit of users for a particular room ,you can invite them by giving Room Id.
+#### :wave:
+#### :wave:
+#### :wave:
   
 ## :triangular_flag_on_post: Code Style 
   1. Proper folder structure has been maintained
