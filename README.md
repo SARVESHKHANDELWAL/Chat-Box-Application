@@ -80,12 +80,12 @@
 
 ## ✨ Tech/framework used 
   The following tools were used in building this site
-  :star: Front-end development
+  ⭐ Front-end development
     * HTML
     * CSS
     * BootStrap 
 
-  :star: Back-end development
+  ⭐ Back-end development
     * Javascript
     * Node.js
     * Express.js
